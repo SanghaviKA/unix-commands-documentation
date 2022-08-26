@@ -1,0 +1,47 @@
+git commands
+
+
+1. Clone repo - git clone $repository_name
+2. Push local changes into cloud 
+	1. git add $file_name
+	2. git commit -m "some message"
+	3. git push
+3. Pull latest changes from the cloud 
+	1. git pull
+
+
+
+UNIX Commands
+
+1. cd - change directory. to switch from one folder or directory to another directory
+2. pwd - present working directory
+3. ls - list the content of directory.
+
+4. mkdir - create new directory.
+    ex: mkdir   my-java-project
+
+5.touch - It is used to create a file.
+          ex: touch  file1.txt
+
+6. cat -  It is used to create and enter the data.
+          To enter the data type vim file.txt this will open a file to enter data
+          ex: Hello, Sanghavi
+
+7.rm-rf - It is used to delete the file.
+            ex: ./file1.txt
+
+           1.  ./ is used for current working directory.
+           2.  ./* is used to delete all the files in the directory.
+           3.  ./*.java  
+           4.  ./text.*
+
+8. mv - used to move file into the directory.
+        ex: ./project.java ./my-java-project-2
+
+9 cp - used to copy the file in to the directory.
+       ex: ./project.java./my-java-project-2
+
+
+10 ~/ is used for public
+      ex: cd ~/
+          
