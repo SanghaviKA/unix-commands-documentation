@@ -44,4 +44,4 @@ UNIX Commands
 
 10 ~/ is used for public
       ex: cd ~/
-          
+11 ls -ltr - Command to list the file with metadata          
